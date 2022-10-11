@@ -3,7 +3,7 @@
 - 🙌 i create regularly blogs on [sirine-medium](https://medium.com/@SirineSarray)
 - 🌱 I’m currently learning reactjs and redux...
 - 💞️ I'm looking to collaborate if u have a great idea...
-- 📫 How to reach me **You can shoot me an email at doniaskima344@gmail.com! I'll try to respond as soon as I can.**
+- 📫 How to reach me **You can shoot me an email at sirine2019sarray@gmail.com! I'll try to respond as soon as I can.**
 - 😊 visit [my linkedin](https://www.linkedin.com/in/sirine-sarray-b74a43232)
 
 <!---
